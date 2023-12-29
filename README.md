@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Juan 😃
+# Hi, I'm Juan 😃
+
 
 <!--
 **JuanPGalli/JuanPGalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +15,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I´m a Full Stack Developer & Public Accountant with large working experience in the Bank Industry.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-As a full stack developer my purpose is to work building solutions to peoples problems and building a more fair and democratic world. My contribution is to develop applications that people can use mainly as back end but also a front end developer.
-My work experience has been related to the corporate field, and anctually I have knowledge in Javascript, NodeJS, Express, PostgreSQL & Sequelize, ReactJS & Redux, Git and SCRUM methodology.
-Passionate about the analysis of coding and it´s relation to social development. Curious and interested at building and developing solutions to ours daily problems, and focused on human improvement and developing.
 
-Email 📩: jpgallir@gmail.com
-Github 💼: https://github.com/JuanPGalli
-Celular 📱: +55 21 995282826
+I'm a junior fullstack developer with experience in JavaScript, React.js, Redux, Node.js, Express, PostgreSQL, Sequelize and Agile Methodologies. I graduated from SoyHenry, a bootcamp for web developers, and have been working on various projects to enhance my skills.
 
+Skills
+------------
+- JavaScript
+- React.js
+- Redux
+- Node.js
+- Express
+- PostgreSQL
+- Sequelize
+- Agile Methodologies
+
+Projects
+-----------
+- Individual_Project_Dogs
+- Individual_Project_Cars
+- Help-Community
+
+Contact
+-----------------------
+- Email 📩: jpgallir@gmail.com
+- LinkedIn 💼: www.linkedin.com/in/juan-pablo-galli-rodriguez-20b2876b
+- Celular 📱: +55 21 995282826
