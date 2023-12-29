@@ -31,8 +31,8 @@ Skills
 
 Projects
 -----------
-- Individual_Project_Dogs
-- Individual_Project_Cars
+- PI-Dogs
+- Cars
 - Help-Community
 
 Contact
