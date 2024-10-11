@@ -39,4 +39,4 @@ Contact
 -----------------------
 - Email 📩: jpgallir@gmail.com
 - LinkedIn 💼: www.linkedin.com/in/juan-pablo-galli-rodriguez-20b2876b
-- Celular 📱: +55 21 995282826
+- Cellphone 📱: +55 21 995282826
