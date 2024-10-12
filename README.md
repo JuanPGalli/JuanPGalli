@@ -34,7 +34,7 @@ I'm a junior fullstack developer with experience in JavaScript, React.js, Redux,
 <!--
 - PI-Dogs
 -->
-- [Cars](https://pi-drivers-seven.vercel.app)
+- [Drivers](https://pi-drivers-seven.vercel.app)
 - [Help-Community](https://help-community.vercel.app)
 
 ## Contact me
