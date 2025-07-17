@@ -108,7 +108,6 @@ I'm a junior fullstack developer with experience in JavaScript, React.js, Redux,
 
 [![Gmail](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4350&color=ffffff)](mailto:jpgallir@gmail.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=ffffff)](https://www.linkedin.com/in/juan-pablo-galli-rodriguez-20b2876b)
 [![LinkedIn](https://img.shields.io/badge/in-blue?logo=linkedin)](https://www.linkedin.com/in/juan-pablo-galli-rodriguez-20b2876b)
 &nbsp;&nbsp;
 [![WhatsApp](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=25D366&color=ffffff)](https://wa.me/5521995282826)
