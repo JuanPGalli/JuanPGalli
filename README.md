@@ -69,8 +69,6 @@ I'm a junior fullstack developer with experience in JavaScript, React.js, Redux,
   &nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="50" title="Nodemailer" />
   &nbsp;&nbsp;
-  <img src="https://seeklogo.com/images/M/mercado-pago-logo-50FAD95D77-seeklogo.com.png" width="50" title="Mercado Pago" />
-  &nbsp;&nbsp;
 </p>
 
 ### Dev Tools & Deployment  
