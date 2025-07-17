@@ -1,23 +1,4 @@
 
-I'm a junior fullstack developer with experience in JavaScript, React.js, Redux, Node.js, Express, PostgreSQL, Sequelize and Agile Methodologies. I graduated from SoyHenry, a bootcamp for web developers, and have been working on various projects to enhance my skills.
-
-## Skills
-
-- JavaScript
-- React.js
-- Redux
-- Node.js
-- Express
-- PostgreSQL
-- Sequelize
-- Agile Methodologies
-
-## Contact me
-
-[![Gmail](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4350&color=ffffff)](mailto:jpgallir@gmail.com) [![LinkedIn](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=ffffff)](https://www.linkedin.com/in/juan-pablo-galli-rodriguez-20b2876b) [![WhatsApp](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=25D366&color=ffffff)](https://wa.me/5521995282826)
-
-
-
 # 👋 Hi, I'm Juan Pablo Galli
 
 🎯 I'm a **Full Stack Developer** with a background in Accounting and over 800+ hours of practical training at SoyHenry Bootcamp.  
@@ -97,7 +78,7 @@ I'm a junior fullstack developer with experience in JavaScript, React.js, Redux,
 
 | Name | Description | Demo |
 |------|-------------|------|
-| **[Drivers](https://pi-drivers-seven.vercel.app)** | A SPA to list and filter F1 drivers using React, Redux, Node.js, Express and PostgreSQL | [🌐 Site](https://pi-drivers-seven.vercel.app) • [▶️ Demo](https://youtu.be/5EJk7emG87s) |
+| **[Drivers](https://pi-drivers-seven.vercel.app)** | A SPA to list and filter F1 drivers using React, Redux, Node.js, Express and PostgreSQL | [🌐 Site](https://pi-drivers-seven.vercel.app) <br> [<img src="./assets/logo_youtube.jpg" height="20" alt="YouTube Demo"> Video](https://youtu.be/5EJk7emG87s)|
 | **[Help-Community](https://help-community.vercel.app)** | E-commerce platform for selling products, with a landing page that also promotes donation campaigns | [🌐 Site](https://help-community.vercel.app) |
 
 ---
@@ -106,7 +87,9 @@ I'm a junior fullstack developer with experience in JavaScript, React.js, Redux,
 
 [![Gmail](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4350&color=ffffff)](mailto:jpgallir@gmail.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/in-blue?logo=linkedin)](https://www.linkedin.com/in/juan-pablo-galli-rodriguez-20b2876b)
+<a href="https://www.linkedin.com/in/juan-pablo-galli-rodriguez-20b2876b" target="_blank">
+  <img src="./assets/logo_linkedin.png" height="20" alt="LinkedIn logo">
+</a>
 &nbsp;&nbsp;
 [![WhatsApp](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=25D366&color=ffffff)](https://wa.me/5521995282826)
 
