@@ -28,47 +28,47 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50" />
+  <img src="./assets/logo_vite.png" width="50" alt="vite" />
   &nbsp;&nbsp;
 </p>
 
 ### Backend & Database  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+  <img src="./assets/logo_nodejs.png" width="50" alt="node.js" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="express"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50" alt="sequelize/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="postgresql"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="mongodb"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="firebase"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" alt="postman"/>
   &nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="50" title="Nodemailer" />
+  <img src="./assets/logo_nodemailer.png" width="70" alt="Nodemailer" />
   &nbsp;&nbsp;
 </p>
 
 ### Dev Tools & Deployment  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="git"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="github"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="50" alt="Docker" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="bash"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="vscode"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="figma"/>
   &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="50" alt="vercel"/>
   &nbsp;&nbsp;
-  <img src="https://railway.app/brand/logo-dark.svg" width="50" />
+  <img src="https://railway.app/brand/logo-dark.svg" width="50" alt="railway"/>
   &nbsp;&nbsp;
 </p>
 
@@ -78,20 +78,24 @@
 
 | Name | Description | Demo |
 |------|-------------|------|
-| **[Drivers](https://pi-drivers-seven.vercel.app)** | A SPA to list and filter F1 drivers using React, Redux, Node.js, Express and PostgreSQL | [🌐 Site](https://pi-drivers-seven.vercel.app) <br> [<img src="./assets/logo_youtube.jpg" height="20" alt="YouTube Demo"> Video](https://youtu.be/5EJk7emG87s)|
+| **[Drivers](https://pi-drivers-seven.vercel.app)** | A SPA to list and filter F1 drivers using React, Redux, Node.js, Express and PostgreSQL | [🌐 Site](https://pi-drivers-seven.vercel.app) <br> &nbsp; [<img src="./assets/logo_youtube.jpg" height="20" alt="YouTube Demo"> Video](https://youtu.be/5EJk7emG87s)|
 | **[Help-Community](https://help-community.vercel.app)** | E-commerce platform for selling products, with a landing page that also promotes donation campaigns | [🌐 Site](https://help-community.vercel.app) |
 
 ---
 
 ## 📫 Contact me
 
-[![Gmail](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4350&color=ffffff)](mailto:jpgallir@gmail.com)
-&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/juan-pablo-galli-rodriguez-20b2876b" target="_blank">
   <img src="./assets/logo_linkedin.png" height="20" alt="LinkedIn logo">
 </a>
 &nbsp;&nbsp;
-[![WhatsApp](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=25D366&color=ffffff)](https://wa.me/5521995282826)
+<a href="mailto:jpgallir@gmail.com" target="_blank">
+   <img src="./assets/logo_gmail.png" height="20" alt="Gmail logo">
+</a>
+&nbsp;&nbsp;
+<a href="https://wa.me/5521995282826" target="_blank">
+  <img src="./assets/logo_whatsapp.png" height="20" alt="Whatsapp logo">
+</a>
 
 ---
 
