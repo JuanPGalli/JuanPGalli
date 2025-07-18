@@ -78,7 +78,7 @@
 
 | Name | Description | Demo |
 |------|-------------|------|
-| **[Drivers](https://pi-drivers-seven.vercel.app)** | A SPA to list and filter F1 drivers using React, Redux, Node.js, Express and PostgreSQL | [🌐 Site](https://pi-drivers-seven.vercel.app) <br> &nbsp; [<img src="./assets/logo_youtube.jpg" height="20" alt="YouTube Demo"> Video](https://youtu.be/5EJk7emG87s)|
+| **[Drivers](https://pi-drivers-seven.vercel.app)** | A SPA to list and filter F1 drivers using React, Redux, Node.js, Express and PostgreSQL | [🌐 Site](https://pi-drivers-seven.vercel.app) <br> [<img src="./assets/logo_youtube.jpg" height="20" alt="YouTube Demo"> Video](https://youtu.be/5EJk7emG87s)|
 | **[Help-Community](https://help-community.vercel.app)** | E-commerce platform for selling products, with a landing page that also promotes donation campaigns | [🌐 Site](https://help-community.vercel.app) |
 
 ---
@@ -86,15 +86,15 @@
 ## 📫 Contact me
 
 <a href="https://www.linkedin.com/in/juan-pablo-galli-rodriguez-20b2876b" target="_blank">
-  <img src="./assets/logo_linkedin.png" height="20" alt="LinkedIn logo">
+  <img src="./assets/logo_linkedin.png" height="30" alt="LinkedIn logo">
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:jpgallir@gmail.com" target="_blank">
-   <img src="./assets/logo_gmail.png" height="20" alt="Gmail logo">
+   <img src="./assets/logo_gmail.png" height="30" alt="Gmail logo">
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/5521995282826" target="_blank">
-  <img src="./assets/logo_whatsapp.png" height="20" alt="Whatsapp logo">
+  <img src="./assets/logo_whatsapp.png" height="30" alt="Whatsapp logo">
 </a>
 
 ---
