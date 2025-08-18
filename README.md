@@ -94,7 +94,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/5521995282826" target="_blank">
-  <img src="./assets/logo_whatsapp.png" height="30" alt="Whatsapp logo">
+  <img src="./assets/logo_whatsapp.png" height="35" alt="Whatsapp logo">
 </a>
 
 ---
