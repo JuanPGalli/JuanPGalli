@@ -78,8 +78,8 @@
 
 | Name | Description | Demo |
 |------|-------------|------|
-| **[Drivers](https://pi-drivers-seven.vercel.app)** | A SPA to list and filter F1 drivers using React, Redux, Node.js, Express and PostgreSQL | [🌐 Site](https://pi-drivers-seven.vercel.app) <br> [<img src="./assets/logo_youtube.jpg" height="20" alt="YouTube Demo"> Video](https://youtu.be/5EJk7emG87s)|
-| **[Help-Community](https://help-community.vercel.app)** | E-commerce platform for selling products, with a landing page that also promotes donation campaigns | [🌐 Site](https://help-community.vercel.app) |
+| **[Drivers](https://f1-drivers-spa.vercel.app/)** | A SPA to list and filter F1 drivers using React, Redux, Node.js, Express and PostgreSQL | [🌐 Site](https://f1-drivers-spa.vercel.app/) <br> [<img src="./assets/logo_youtube.jpg" height="20" alt="YouTube Demo"> Video](https://youtu.be/5EJk7emG87s)|
+| **[Help-Community](https://help-community-ecommerce.vercel.app/)** | E-commerce platform for selling products, with a landing page that also promotes donation campaigns | [🌐 Site](https://help-community-ecommerce.vercel.app/) |
 
 ---
 
