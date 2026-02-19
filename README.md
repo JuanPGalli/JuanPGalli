@@ -85,7 +85,7 @@
 
 ## 📫 Contact me
 
-<a href="https://www.linkedin.com/in/juan-pablo-galli-rodriguez-20b2876b" target="_blank">
+<a href="https://www.linkedin.com/in/juan-pablo-galli-rodriguez" target="_blank">
   <img src="./assets/logo_linkedin.png" height="30" alt="LinkedIn logo">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
